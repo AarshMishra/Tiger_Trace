@@ -4,7 +4,7 @@ The International Union for Conservation of Nature (IUCN) classifies tigers as '
 ---
 ![image](https://github.com/user-attachments/assets/cdaf8bf1-92b8-4c45-8529-4c1e209a729f)
 ---
-**This model is an image classification model utilizing deep learning techniques to identify and distinguish different tigers based on their features and it aims to address the challenges by automating the identification of tigers based on their stripe patterns. By utilizing convolutional neural networks (CNNs), this model can distinguish between individual tigers with high accuracy. This innovative approach not only streamlines the monitoring process but also reduces human error, providing more reliable data for conservation efforts.**
+This model is an image classification model utilizing deep learning techniques to identify and distinguish different tigers based on their features and it aims to address the challenges by automating the identification of tigers based on their stripe patterns. By utilizing convolutional neural networks (CNNs), this model can distinguish between individual tigers with high accuracy. This innovative approach not only streamlines the monitoring process but also reduces human error, providing more reliable data for conservation efforts.
 
 
 
