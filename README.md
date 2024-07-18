@@ -12,10 +12,7 @@ The International Union for Conservation of Nature (IUCN) classifies tigers as '
 This deep learning model aims to address the challenges by automating the identification of tigers based on their stripe patterns. By utilizing convolutional neural networks (CNNs), it can distinguish between individual tigers with high accuracy. This innovative approach not only streamlines the monitoring process but also reduces human error, providing more reliable data for conservation efforts.
 
 Benefits:
-High accuracy in distinguishing individual tigers
-Streamlines monitoring process
-Reduces human error
-Provides reliable data for conservation efforts
+High accuracy in distinguishing individual tigers, streamlines the monitoring process, reduces human error, and provides reliable data for conservation efforts.
 
 
 
