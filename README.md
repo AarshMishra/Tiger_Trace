@@ -65,6 +65,15 @@ Tiger_Trace is an AI-based solution aimed at automating the identification and m
    - The model's predictions are analyzed to identify individual tigers in new images.
    - The results are displayed with bounding boxes and confidence scores.
 
+## Pre Trained Model
+Here are the pretrained models on the given dataset:
+
+Resnet: [here](https://1drv.ms/f/s!AjMzlbqC81_ZapGumRTu-EsxWkI?e=VqcIDM)
+
+
+EfficientNb3:[here](https://1drv.ms/f/s!AjMzlbqC81_ZapGumRTu-EsxWkI?e=VqcIDM)
+
+
 ## Usage
 
 To run this project, you need to have Python 3. x installed, along with the necessary libraries (TensorFlow, PyTorch, OpenCV, etc.). Follow the steps below:
